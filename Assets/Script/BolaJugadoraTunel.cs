@@ -57,6 +57,7 @@ public class BolaJugadoraTunel : MonoBehaviour
                 rbTrampilla.isKinematic = false; 
                 vecesMuerte++;
             }
+            
         }
     }
 
